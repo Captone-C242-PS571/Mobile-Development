@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SleepWell</string>
+    <string name="profile_icon">profile icon</string>
+    <string name="type_here">Type Here</string>
+    <string name="check_box">Saya ingin menerima notifikasi Anda dan informasi promosi lainnya</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="lupa_password">Lupa password Anda?</string>
+    <string name="title">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sleepwell">SleepWell</string>
+    <string name="subtitle">Atasi masalah tidur \ndengan aplikasi cerdas \nini!</string>
+    <string name="welcome">Welcome to \nSleepWell!</string>
+    <string name="welcome_title">What can I call you?</string>
+    <string name="no_internet">No internet</string>
+    <string name="no_internet_description">Check Your Internet</string>
+    <string name="ok">Ok</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_statistic">Statistic</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="iv_sleep">iv sleep</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="alarm">Alarm</string>
+    <string name="_7_30_am">7:30 am</string>
+    <string name="face_recognition">Face Recognition</string>
+    <string name="tracking_description">Scan Your Face to Verify your identity</string>
+    <string name="get_start">Get Start</string>
+    <string name="tracking">Tracking</string>
+    <string name="retake">Retake</string>
+    <string name="use">Use</string>
+    <string name="face_overlay">face overlay</string>
+    <string name="subtitle_dialog">If you go back now, you\'ll lose \n all the photos you\'ve taken</string>
+    <string name="title_dialog">Discard scan?</string>
+    <string name="see_result">See result?</string>
+    <string name="ed_email">Email@gmail.com</string>
+    <string name="edt_password">Password</string>
+    <string name="logout">Logout</string>
+</resources>

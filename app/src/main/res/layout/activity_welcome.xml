@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/logo_bg"
+    android:padding="16dp"
+    android:layout_marginTop="30dp">
+
+
+    <ImageView
+        android:id="@+id/profile_icon"
+        android:layout_width="40dp"
+        android:layout_height="46dp"
+        android:layout_gravity="start"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/profile_icon"
+        android:src="@drawable/ic_account" />
+
+    <TextView
+        android:id="@+id/welcome_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:fontFamily="@font/rufina"
+        android:text="@string/welcome"
+        android:textColor="@android:color/white"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/subtitle_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/rufina"
+        android:text="@string/welcome_title"
+        android:textSize="16sp"
+        android:textColor="@android:color/white"/>
+
+    <EditText
+        android:id="@+id/name_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:hint="@string/type_here"
+        android:fontFamily="@font/rufina"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textAppearance="?attr/textAppearanceBodyMedium"
+        />
+
+</LinearLayout>
